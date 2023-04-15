@@ -1,0 +1,18 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url('./images/benjamin-voros.jpg');
+  height: 100vh;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url('./images/cristina-gottardi.jpg');
+  height: 100vh;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url('./images/mohammad-alizade.jpg');
+  height: 100vh;
+}
